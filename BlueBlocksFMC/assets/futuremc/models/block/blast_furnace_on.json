@@ -3,8 +3,8 @@
 	"textures": {
 		"particle": "futuremc:block/blast_furnace_front",
 		"texture": "futuremc:3dres/blast_furnace",
-		"texture1": "block/iron_block",
-		"texture2": "block/lava_still"
+		"texture1": "futuremc:block/iron_block",
+		"texture2": "futuremc:block/lava_still"
 	},
 	"elements": [ 	 
 		{

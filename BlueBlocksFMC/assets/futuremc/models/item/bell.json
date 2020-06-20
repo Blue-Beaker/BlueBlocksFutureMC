@@ -2,8 +2,8 @@
 	"__comment": "Designed by Blue_Beaker with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"particle": "futuremc:block/bell_bottom",
-		"bar": "block/dark_oak_planks",
-		"post": "block/stone",
+		"bar": "futuremc:block/dark_oak_planks",
+		"post": "futuremc:block/stone",
 		"side": "futuremc:block/bell_side",
 		"top": "futuremc:block/bell_top"
 	},
